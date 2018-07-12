@@ -20,3 +20,8 @@ Reach: Far Future, Far Past
 Face: Board President Weston
 Goal: Manipulate history to make a killing (often literally) on the 24th Century Stock Market
 Reach: Modern Day, Future
+
+# The Union
+Face: Negotiator and Union President Nuance Gates
+Goal: Fix broken time machines, mostly for tourists; have been on strike for longer than anyone can remember
+Reach: All of time
